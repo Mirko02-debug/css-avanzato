@@ -1,0 +1,43 @@
+h1 {
+
+}
+
+.nav.d-flex.justify-content-between.mb-2 {
+
+}
+
+.lead.mb-0 .font-weight-bold {
+
+}
+
+.col.p-4.d-flex.flex-column.position-static {
+
+}
+
+.col.p-4.d-flex.flex-column.position-static .mb-0 {
+    color: red;
+}
+
+.nav.d-flex.justify-content-between.mb-2 :nth-child(2n) {
+    color: darkblue;
+}
+
+.list-unstyled.mb-0 {
+
+}
+
+.blog-post-meta :nth-child(1) {
+    
+}
+
+.float-righ.mb-3.mr-3 {
+
+}
+
+.blog-pagination :nth-child(2) {
+
+}
+
+.blog-footer .text-center :last-child {
+    
+}
